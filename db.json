@@ -1,0 +1,72 @@
+{
+	"wishlist": [
+		{
+			"id": 6,
+			"name": "Abdurakhim",
+			"price": 10000,
+			"image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/demon-slayer-asni-surono.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Sasuke Uchiha",
+			"price": 9500,
+			"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8074b88-7839-4cb6-8ee4-6920d3405aac/df1innp-812c3dbd-588e-419b-9f21-abd61895169c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4MDc0Yjg4LTc4MzktNGNiNi04ZWU0LTY5MjBkMzQwNWFhY1wvZGYxaW5ucC04MTJjM2RiZC01ODhlLTQxOWItOWYyMS1hYmQ2MTg5NTE2OWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1GqhafnmUWHl0Yej14rDfR89AoWbjpmYnqFEf_OXo_U"
+		},
+		{
+			"id": 1,
+			"name": "Aidana",
+			"price": 9000,
+			"image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f1be484-e5ae-4e07-4726-5c00951c4b00/width=450/184265.jpeg"
+		},
+		{
+			"id": 7,
+			"name": "Nurs",
+			"price": 11000,
+			"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/030f86ed-dd52-4a71-b326-2662bb766f4d/df153vy-fd8d0b3d-d55b-4f23-ab2c-93f23b49f6a9.png/v1/fill/w_774,h_1032,q_70,strp/demon_slayer_au__concept_art__edgy_neko__by_cneko_chan_df153vy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNyIsInBhdGgiOiJcL2ZcLzAzMGY4NmVkLWRkNTItNGE3MS1iMzI2LTI2NjJiYjc2NmY0ZFwvZGYxNTN2eS1mZDhkMGIzZC1kNTViLTRmMjMtYWIyYy05M2YyM2I0OWY2YTkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fIBZPE6oSJ58mOW6L1m8UfvA2QPx3UMzTgpCJVDqdas"
+		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"name": "Sandibek",
+			"price": 9000,
+			"image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f1be484-e5ae-4e07-4726-5c00951c4b00/width=450/184265.jpeg"
+		},
+		{
+			"id": 2,
+			"name": "Sasuke Uchiha",
+			"price": 9500,
+			"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8074b88-7839-4cb6-8ee4-6920d3405aac/df1innp-812c3dbd-588e-419b-9f21-abd61895169c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4MDc0Yjg4LTc4MzktNGNiNi04ZWU0LTY5MjBkMzQwNWFhY1wvZGYxaW5ucC04MTJjM2RiZC01ODhlLTQxOWItOWYyMS1hYmQ2MTg5NTE2OWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1GqhafnmUWHl0Yej14rDfR89AoWbjpmYnqFEf_OXo_U"
+		},
+		{
+			"id": 3,
+			"name": "Maga",
+			"price": 10000,
+			"image": "https://ih1.redbubble.net/image.519461903.4605/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+		},
+		{
+			"id": 4,
+			"name": "Luffy",
+			"price": 8500,
+			"image": "https://i.pinimg.com/originals/d8/4d/93/d84d93295987adc88047b982dd1c4a71.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Ichigo Kurosaki",
+			"price": 9200,
+			"image": "https://w0.peakpx.com/wallpaper/462/337/HD-wallpaper-kurosaki-ichigo-design-art-painting-colors-landscape-awesome-stylish-attractive-admirable.jpg"
+		},
+		{
+			"id": 6,
+			"name": "Abdurakhim",
+			"price": 10000,
+			"image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/demon-slayer-asni-surono.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Nurs",
+			"price": 11000,
+			"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/030f86ed-dd52-4a71-b326-2662bb766f4d/df153vy-fd8d0b3d-d55b-4f23-ab2c-93f23b49f6a9.png/v1/fill/w_774,h_1032,q_70,strp/demon_slayer_au__concept_art__edgy_neko__by_cneko_chan_df153vy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNyIsInBhdGgiOiJcL2ZcLzAzMGY4NmVkLWRkNTItNGE3MS1iMzI2LTI2NjJiYjc2NmY0ZFwvZGYxNTN2eS1mZDhkMGIzZC1kNTViLTRmMjMtYWIyYy05M2YyM2I0OWY2YTkucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fIBZPE6oSJ58mOW6L1m8UfvA2QPx3UMzTgpCJVDqdas"
+		}
+	]
+}

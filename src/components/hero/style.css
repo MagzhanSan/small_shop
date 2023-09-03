@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.hero {
+	height: 350px;
+	background-color: #f5f5dc;
+}
+
+.hero h1 {
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	margin-top: 0;
+	padding-top: 175px;
+}
